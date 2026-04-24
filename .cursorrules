@@ -1,0 +1,32 @@
+# Whim Landing Page: Design System & Engineering Rules
+
+## Project Context
+- **Product:** Whim ("Tinder for events").
+- **Audience:** Gen Z College Students (Premium, trendy, fast-moving).
+- **Core Identity:** Dark mode, exclusive (.edu), spontaneous, futuristic.
+
+## Design Tokens (STRICT ADHERENCE)
+- **Background:** Always `#0A0E1E` (Marketing BG). Never use default Tailwind grays.
+- **Surface:** `rgba(255, 255, 255, 0.04)` with `backdrop-filter: blur(12px)`.
+- **Primary Brand:** Gradient from `#7C3AED` to `#8B6FF0`.
+- **Action Green (Join):** `#22c55e`.
+- **Action Red (Skip):** `#ef4444`.
+- **Border Radius:** - Cards/Bento Boxes: `24px`.
+  - Buttons/CTAs: `16px`.
+- **Borders:** Subtle 1px `rgba(255, 255, 255, 0.1)`.
+
+## Technical Stack
+- **Framework:** Next.js (App Router), Tailwind CSS, Shadcn UI.
+- **Animation:** Framer Motion (use spring physics: mass 1, damping 15).
+- **3D:** React Three Fiber / Spline.
+- **Icons:** Lucide React (use thin stroke widths).
+
+## Coding Standards
+- **No Generic Layouts:** Avoid perfectly symmetrical 3-column grids. Use intentional asymmetry and overlapping elements.
+- **Texture:** Apply a global SVG noise/grain filter to dark backgrounds to avoid "flat" AI looks.
+- **Micro-interactions:** Every interactive element must have a `whileHover` and `whileTap` scale effect (0.98 or 1.02).
+- **Mobile First:** Ensure all 3D components degrade gracefully or transform into high-quality video/Lottie on mobile.
+
+## Tone of Voice
+- **Copy:** Short, punchy, imperative (e.g., "Find your move," not "You can find events here").
+- **No Periods:** Avoid periods in headlines. Use them only for body paragraphs.
