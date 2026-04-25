@@ -9,26 +9,23 @@ const footerLinks = {
     links: [
       { label: "Features", href: "#" },
       { label: "How It Works", href: "#" },
-      { label: "Pricing", href: "#" },
       { label: "Download", href: "#" },
     ],
   },
   safety: {
     title: "Safety",
     links: [
-      { label: "Community Guidelines", href: "#" },
-      { label: "Safety Tips", href: "#" },
-      { label: "Report an Issue", href: "#" },
+      { label: "Community Guidelines", href: "/legal/guidelines" },
+      { label: "Safety Information", href: "/legal/safety" },
+      { label: "Report an Issue", href: "/contact" },
       { label: "Trust & Safety", href: "#" },
     ],
   },
   legal: {
     title: "Legal",
     links: [
-      { label: "Community Guidelines", href: "/legal/guidelines" },
       { label: "Terms of Service", href: "/legal/terms" },
       { label: "Privacy Policy", href: "/legal/privacy" },
-      { label: "Safety Information", href: "/legal/safety" },
       { label: "Content Policy", href: "/legal/content" },
     ],
   },

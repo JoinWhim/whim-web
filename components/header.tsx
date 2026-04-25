@@ -82,7 +82,7 @@ export function Header() {
           isScrolled ? "opacity-100" : "pointer-events-none opacity-0"
         }`}
       >
-        <div className="mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto w-full max-w-3xl px-4 sm:px-6">
           <nav className="relative grid grid-cols-[1fr_auto] md:grid-cols-3 items-center rounded-[20px] border border-[rgba(255,255,255,0.12)] bg-[rgba(10,14,30,0.74)] px-4 py-3 shadow-[0_12px_40px_rgba(0,0,0,0.38)] backdrop-blur-xl supports-[backdrop-filter]:bg-[rgba(10,14,30,0.66)]">
             <div className="flex justify-start">
               <button
@@ -103,12 +103,6 @@ export function Header() {
               >
                 How it works
               </button>
-              <Link
-                href="/about"
-                className="rounded-full px-3.5 py-2 text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
-              >
-                About Us
-              </Link>
               <Link
                 href="/contact"
                 className="rounded-full px-3.5 py-2 text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
@@ -166,15 +160,6 @@ export function Header() {
               >
                 How it works
               </button>
-              <Link
-                href="/about"
-                onClick={() => setIsMobileMenuOpen(false)}
-                className={`cursor-pointer rounded-[12px] px-3 py-2.5 text-left text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white active:scale-[0.99] ${
-                  isMobileMenuOpen ? "translate-y-0 opacity-100 delay-100" : "translate-y-1 opacity-0 delay-0"
-                }`}
-              >
-                About Us
-              </Link>
               <Link
                 href="/contact"
                 onClick={() => setIsMobileMenuOpen(false)}

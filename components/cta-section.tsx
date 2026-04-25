@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 import { useReducedMotion } from "framer-motion"
-import { Apple, Play } from "lucide-react"
+import { Apple } from "lucide-react"
 
 export function CTASection() {
   const prefersReducedMotion = useReducedMotion()
@@ -89,41 +89,6 @@ export function CTASection() {
                 </div>
               </motion.a>
 
-              {/* Play Store Button */}
-              <motion.a
-                href="#"
-                whileHover={
-                  prefersReducedMotion
-                    ? undefined
-                    : {
-                        scale: 1.035,
-                        y: -4,
-                        borderColor: "rgba(139, 111, 240, 0.7)",
-                        boxShadow: "0 14px 36px rgba(124, 58, 237, 0.36)",
-                      }
-                }
-                whileTap={{ scale: 0.98 }}
-                transition={
-                  prefersReducedMotion
-                    ? { duration: 0 }
-                    : { type: "spring", mass: 0.55, damping: 26, stiffness: 430 }
-                }
-                className="flex items-center gap-3 px-6 py-4 rounded-[16px] cursor-pointer transition-colors duration-150 hover:bg-[#1a2038]"
-                style={{
-                  background: "#101628",
-                  border: "1px solid rgba(255, 255, 255, 0.1)",
-                }}
-              >
-                <Play className="w-8 h-8 text-white fill-white" />
-                <div className="text-left">
-                  <p className="text-[10px] text-[#B8C8E2] uppercase tracking-wide leading-none">
-                    Get it on
-                  </p>
-                  <p className="text-white font-semibold text-lg leading-tight">
-                    Google Play
-                  </p>
-                </div>
-              </motion.a>
             </div>
           </div>
         </motion.div>
