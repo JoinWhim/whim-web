@@ -3,12 +3,17 @@
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
+import { usePathname, useRouter } from "next/navigation"
 import { Download, Menu, X } from "lucide-react"
 
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const [isSplashActive, setIsSplashActive] = useState(true)
+  const [isFooterVisible, setIsFooterVisible] = useState(false)
+  const pathname = usePathname()
+  const router = useRouter()
+  const isHome = pathname === "/"
 
   useEffect(() => {
     const onScroll = () => {
@@ -44,7 +49,23 @@ export function Header() {
     return () => window.removeEventListener("resize", onResize)
   }, [])
 
+  useEffect(() => {
+    const footer = document.querySelector("footer")
+    if (!footer) return
+    const observer = new IntersectionObserver(
+      ([entry]) => setIsFooterVisible(entry.isIntersecting),
+      { rootMargin: "80px 0px 0px 0px" }
+    )
+    observer.observe(footer)
+    return () => observer.disconnect()
+  }, [pathname])
+
   const scrollToSection = (sectionId: string) => {
+    if (!isHome) {
+      router.push(`/#${sectionId}`)
+      setIsMobileMenuOpen(false)
+      return
+    }
     const section = document.getElementById(sectionId)
     if (!section) return
     section.scrollIntoView({ behavior: "smooth", block: "start" })
@@ -52,6 +73,11 @@ export function Header() {
   }
 
   const handleLogoClick = () => {
+    if (!isHome) {
+      router.push("/")
+      setIsMobileMenuOpen(false)
+      return
+    }
     window.scrollTo({ top: 0, behavior: "smooth" })
     setIsMobileMenuOpen(false)
   }
@@ -60,7 +86,7 @@ export function Header() {
     <>
       <header
         className={`fixed inset-x-0 top-0 z-50 transition-opacity duration-300 ${
-          isScrolled || isSplashActive ? "pointer-events-none opacity-0" : "opacity-100"
+          !isHome || isScrolled || isSplashActive ? "pointer-events-none opacity-0" : "opacity-100"
         }`}
       >
         <div className="container mx-auto px-6 lg:px-12 py-5">
@@ -79,7 +105,7 @@ export function Header() {
 
       <header
         className={`fixed inset-x-0 top-4 z-50 transition-opacity duration-300 ${
-          isScrolled ? "opacity-100" : "pointer-events-none opacity-0"
+          (isScrolled || !isHome) && !isFooterVisible ? "opacity-100" : "pointer-events-none opacity-0"
         }`}
       >
         <div className="mx-auto w-full max-w-3xl px-4 sm:px-6">
