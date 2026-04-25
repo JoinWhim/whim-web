@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import Link from "next/link"
 import Image from "next/image"
 import { Download, Menu, X } from "lucide-react"
 
@@ -102,13 +103,18 @@ export function Header() {
               >
                 How it works
               </button>
-              <button
-                type="button"
-                onClick={() => scrollToSection("safety")}
+              <Link
+                href="/about"
                 className="rounded-full px-3.5 py-2 text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
               >
-                Safety
-              </button>
+                About Us
+              </Link>
+              <Link
+                href="/contact"
+                className="rounded-full px-3.5 py-2 text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
+              >
+                Contact Us
+              </Link>
             </div>
 
             <div className="hidden justify-end md:flex">
@@ -160,15 +166,24 @@ export function Header() {
               >
                 How it works
               </button>
-              <button
-                type="button"
-                onClick={() => scrollToSection("safety")}
+              <Link
+                href="/about"
+                onClick={() => setIsMobileMenuOpen(false)}
                 className={`cursor-pointer rounded-[12px] px-3 py-2.5 text-left text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white active:scale-[0.99] ${
                   isMobileMenuOpen ? "translate-y-0 opacity-100 delay-100" : "translate-y-1 opacity-0 delay-0"
                 }`}
               >
-                Safety
-              </button>
+                About Us
+              </Link>
+              <Link
+                href="/contact"
+                onClick={() => setIsMobileMenuOpen(false)}
+                className={`cursor-pointer rounded-[12px] px-3 py-2.5 text-left text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white active:scale-[0.99] ${
+                  isMobileMenuOpen ? "translate-y-0 opacity-100 delay-[125ms]" : "translate-y-1 opacity-0 delay-0"
+                }`}
+              >
+                Contact Us
+              </Link>
               <button
                 type="button"
                 onClick={() => scrollToSection("ready")}

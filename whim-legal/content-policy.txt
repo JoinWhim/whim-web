@@ -1,0 +1,240 @@
+WHIM CONTENT POLICY
+
+Last Updated: April 24, 2026
+Effective Date: April 24, 2026
+
+This Content Policy governs all user-generated content submitted to the Whim platform, including event listings, event descriptions, event cover images, profile photos, profile information, banner images, chat messages, and any other content users create or share through the Service. This policy applies to all users of Whim and is part of the broader agreement you accepted when you created your account, including the Terms of Service and Community Guidelines.
+
+Whim is a platform for spontaneous, real-world university events. Content on Whim should serve this purpose — helping students discover, share, and engage with real, safe, and genuine experiences. Content that undermines the safety, authenticity, or inclusivity of our community is prohibited.
+
+--------------------------------------------------------------------------------
+1. SCOPE OF THIS POLICY
+--------------------------------------------------------------------------------
+
+This Content Policy applies to all content that can be submitted, posted, or displayed on Whim, including:
+
+- Event Listings: Titles, descriptions, times, locations, cover images, tags, and organization names
+- Chat Messages: All messages sent in event group chats, including text and any embedded content
+- User Profiles: First and last name, username, biography, profile photo, banner image, major, graduation year, and club affiliations
+- Reports and Feedback: Content submitted in user reports and bug reports
+- Any Other User-Submitted Content: Any text, image, or data submitted by a user through any interface in the app
+
+This policy is enforced by Whim's moderation team and automated systems. Content may be reviewed before or after it is posted.
+
+--------------------------------------------------------------------------------
+2. USER CONTENT OWNERSHIP AND LICENSE
+--------------------------------------------------------------------------------
+
+2.1 You Own Your Content. You retain all intellectual property rights to content you create and submit to Whim. We do not claim ownership of your event listings, profile information, or messages.
+
+2.2 License to Whim. By posting content to Whim, you grant Whim a non-exclusive, royalty-free, worldwide, sublicensable, and transferable license to use, display, reproduce, and distribute your content within the Service for the purpose of operating the platform and providing the Service to users.
+
+2.3 Scope of License. This license is limited to:
+- Displaying your event listings to other users
+- Displaying your profile to other users
+- Transmitting your messages to event attendees
+- Using your content to provide, improve, and promote the Service
+
+2.4 License Termination. The license described above terminates when:
+- You delete a specific piece of content (e.g., an event or profile update), with respect to that content
+- You delete your account, with respect to all remaining content
+
+Note: Due to the nature of distributed systems and cached data, some residual data may take up to 30 days to fully propagate deletions.
+
+2.5 Event Chat Messages. Because chat messages cannot be deleted by users, the license for chat messages persists until the event is automatically cleaned up by our system (approximately 24 hours after the event time).
+
+2.6 Third-Party Rights. You represent and warrant that you own all rights to the content you post or have obtained all necessary permissions to grant Whim the license described above. Do not post content that infringes copyrights, trademarks, or other intellectual property rights belonging to others.
+
+--------------------------------------------------------------------------------
+3. PROHIBITED CONTENT
+--------------------------------------------------------------------------------
+
+The following categories of content are strictly prohibited on Whim. Posting prohibited content may result in immediate removal of the content, suspension, or permanent termination of your account.
+
+3.1 ILLEGAL CONTENT
+
+Content that is illegal under applicable law is prohibited. This includes but is not limited to:
+
+- Child Sexual Abuse Material (CSAM): Any sexually explicit depiction of a minor is strictly prohibited and will be immediately removed and reported to the National Center for Missing & Exploited Children (NCMEC) and law enforcement. There are no exceptions to this rule.
+- Drug Trafficking and Sales: Event listings, messages, or profile content that advertise, facilitate, or solicit the sale, distribution, or purchase of illegal controlled substances
+- Weapons: Content facilitating the illegal sale, transfer, or acquisition of firearms, ammunition, explosives, or other weapons
+- Human Trafficking or Exploitation: Content that promotes, facilitates, or solicits human trafficking, forced labor, or sexual exploitation
+- Fraud and Scams: Content designed to defraud users of money, personal information, or other value
+- Content Illegal in the User's Jurisdiction: Content that violates laws applicable to the user's geographic location, even if not explicitly listed above
+
+3.2 VIOLENT AND THREATENING CONTENT
+
+- Credible Threats: Any content that constitutes a credible threat of violence against an identifiable person, group, or institution
+- Glorification of Violence: Content that celebrates, glorifies, encourages, or promotes acts of violence, terrorism, or mass harm
+- Graphic Violence: Gratuitously graphic, gory, or disturbing depictions of injury, death, or suffering — including in images and event cover photos
+- Incitement: Content intended to incite others to engage in violent or unlawful acts
+
+3.3 SEXUAL CONTENT
+
+- Nudity: Explicit or implicit nudity in profile photos, banner images, or event cover images is prohibited
+- Pornographic Content: Sexually explicit images, videos, or descriptions of a pornographic nature
+- Sexual Solicitation: Content that solicits sexual services, exchanges, or arrangements, whether paid or unpaid
+- Non-Consensual Sexual Content: Any depiction or description of sexual acts without the consent of the depicted individual(s), including "revenge porn" and non-consensual intimate imagery (NCII)
+- Sexualization of Minors: Any content that sexualizes individuals under 18, regardless of whether explicit nudity is present
+
+3.4 HATE SPEECH AND DISCRIMINATORY CONTENT
+
+- Content that dehumanizes individuals or groups on the basis of protected characteristics, including race, ethnicity, national origin, religion, gender, gender identity, sexual orientation, age, disability status, or immigration status
+- Slurs used to attack or demean individuals or groups
+- Calls for discrimination against protected groups
+- Symbols associated with hate groups when used in a hateful context (e.g., white supremacist imagery, Nazi symbols)
+- Denying verified historical atrocities (e.g., genocide denial) in a context designed to promote hate
+
+3.5 HARASSMENT AND ABUSE
+
+- Content targeting an individual with the purpose of causing emotional distress, humiliation, or fear
+- Doxxing: Publishing another person's private personal information (home address, phone number, financial information, etc.) without their consent
+- Coordinated Harassment: Organizing or participating in a campaign to harass, intimidate, or target a specific individual or group
+- Blackmail or Extortion: Threatening to share private or embarrassing information about someone unless demands are met
+- Malicious Use of Reporting: Filing false or bad-faith reports about other users as a form of harassment
+
+3.6 MISINFORMATION AND DECEPTION
+
+- Fake Events: Posting events that you know will not occur, do not exist, or are created for deceptive purposes
+- False Location: Providing a false or deliberately misleading event location (Whim uses GPS verification, so false locations may result in attendees being misled about where to go)
+- Impersonation: Creating a profile or posting content that falsely represents you as another person, including:
+  - Another Whim user
+  - A university professor, administrator, or official
+  - A Whim employee or representative
+  - A celebrity, public figure, or well-known person
+  - A real organization or institution
+- False Credentials: Claiming to be affiliated with a university or club that you are not affiliated with
+- Health Misinformation: Content promoting dangerous or false health information (e.g., spreading false medical advice in the context of event safety)
+
+3.7 SPAM AND PLATFORM MANIPULATION
+
+- Spam: Posting repetitive, irrelevant, or low-quality content in bulk, including flooding event chats with repeated messages
+- Unsolicited Commercial Content: Using event listings, profiles, or chats to advertise commercial products or services not related to a genuine community event
+- Fake Accounts: Creating accounts specifically to inflate attendance numbers, manipulate event discovery, or circumvent enforcement actions
+- Coordinated Inauthentic Behavior: Using multiple accounts or coordinating with others to artificially influence what content is seen or promoted on the platform
+- Gaming Attendance Metrics: Inflating your "events attended" or "show rate" statistics through dishonest means
+
+3.8 PRIVACY VIOLATIONS
+
+- Unauthorized Personal Information: Sharing another person's private information — including address, phone number, email, or financial details — without their explicit consent
+- Non-Consensual Photography or Video: Posting images or videos of identifiable individuals in private situations without their consent
+- Exposing Sensitive Personal Information: Sharing information about another person's medical status, immigration status, financial situation, or other sensitive categories without consent
+- Screen-Captured Private Messages: Sharing screenshots of private conversations involving other people without the consent of all parties depicted
+
+3.9 INTELLECTUAL PROPERTY VIOLATIONS
+
+- Copyright Infringement: Posting content that infringes the copyright of another party, including images, music, or text you do not own or have permission to use
+- Trademark Infringement: Using another company's logos, trademarks, or branding in a way that falsely implies affiliation or endorsement
+- Plagiarism: Presenting others' original content as your own
+
+3.10 SELF-HARM AND SUICIDE
+
+- Content that promotes, glorifies, or provides detailed instructions for self-harm, suicide, or eating disorders
+- Content that may trigger vulnerable individuals without appropriate context or safety information
+- We recognize that discussions of mental health are important and we support events and communities focused on mental wellness, provided they are framed supportively and do not contain harmful instructions
+
+--------------------------------------------------------------------------------
+4. CONTEXT-SPECIFIC RULES
+--------------------------------------------------------------------------------
+
+4.1 Event Listings
+
+In addition to the above prohibitions, event listings must:
+- Contain a real, accurate title that describes what the event actually is
+- Use a cover image that is appropriate for all audiences and accurately represents the event (not stock photos of unrelated subjects designed to attract clicks)
+- List a real location where the event will occur — Whim uses GPS verification, and listing a false location will be treated as deception
+- Not include contact information (phone numbers, external links) for the sole purpose of moving interactions off-platform before users can evaluate the event
+
+4.2 Event Chat Messages
+
+- Chat messages in group event chats are permanently stored until the event expires (approximately 24 hours after event time). They cannot be edited or deleted after sending.
+- Do not post content in event chats that you would not want permanently associated with your account
+- The same content prohibitions apply to chat messages as to all other content on the platform
+
+4.3 Profile Content
+
+- Profile photos and banner images are visible to all users on the platform. They must be appropriate for a general university audience.
+- Profile bios are limited to factual or genuine personal expression. They must not be used to communicate threats, slurs, or prohibited content.
+- Username selection is subject to the same content rules. Usernames that include slurs, threats, or impersonation of others are prohibited.
+
+--------------------------------------------------------------------------------
+5. MODERATION APPROACH
+--------------------------------------------------------------------------------
+
+5.1 No Prior Review. Whim does not review content before it is posted. Content is published immediately and subject to moderation after posting. We rely on automated detection tools and user reports to identify potential violations.
+
+5.2 Automated Detection. We use automated systems to detect certain categories of prohibited content, including known CSAM hashes and spam patterns. These systems may flag content for human review.
+
+5.3 Human Review. Our moderation team manually reviews content flagged by automated systems or reported by users. We aim to review high-priority safety reports within 24 hours and other reports within 7 days.
+
+5.4 Context Matters. We consider context when reviewing flagged content. Content that might appear to violate policy in isolation may be acceptable in a clear educational, artistic, or critical context. We assess content holistically.
+
+5.5 Language. Our moderation team is primarily English-speaking. Content in other languages may take longer to review. We do not apply different standards based on language.
+
+5.6 Moderation Errors. We recognize that moderation systems are imperfect. Content may be incorrectly removed or incorrectly left up. If you believe content was incorrectly removed, please appeal. If you see content that should have been removed, please report it.
+
+--------------------------------------------------------------------------------
+6. ENFORCEMENT
+--------------------------------------------------------------------------------
+
+6.1 Content Actions. When prohibited content is identified, we may:
+- Remove the content immediately
+- Replace the content with a notice that it was removed for policy violation
+- Preserve the content for use in safety investigations before removal
+
+6.2 Account Actions. Depending on the nature and severity of a violation, we may take the following account-level actions:
+
+Warning: A formal notice that a violation was identified. Warnings are recorded and considered in future enforcement decisions.
+
+Feature Restriction: Restricting your ability to use specific features (e.g., event creation) while allowing continued access to other parts of the platform.
+
+Temporary Suspension: Suspending your account for a defined period (e.g., 7 days, 30 days). You will not be able to access the Service during this period.
+
+Permanent Termination: Permanently removing your account and all associated data. Permanent bans are issued for severe violations or repeated violations after prior enforcement actions.
+
+6.3 Immediate Termination. Whim reserves the right to immediately permanently terminate any account that posts CSAM, makes credible threats of violence, engages in doxxing, or commits other severe violations. No warning is required for immediate termination in these cases.
+
+6.4 Reporting to Authorities. For content that involves illegal activity — particularly content involving CSAM, credible threats, or fraud — Whim may report the content and associated account information to law enforcement or relevant authorities as required by law or as we deem necessary to protect user safety.
+
+6.5 Repeat Violations. Repeat violations escalate the severity of enforcement response. A pattern of violations, even of a less severe nature, may result in escalating responses up to permanent termination.
+
+--------------------------------------------------------------------------------
+7. APPEALS
+--------------------------------------------------------------------------------
+
+7.1 Right to Appeal. If your content is removed or your account is suspended or banned, you have the right to appeal the decision.
+
+7.2 How to Appeal. Submit your appeal to appeals@joinwhim.net within 30 days of the enforcement action. Include:
+- Your registered email address
+- A description of the enforcement action taken
+- Your explanation of why you believe the decision was incorrect
+- Any relevant context you would like us to consider
+
+7.3 Review. Our appeals team will review your submission independently from the original moderation decision. We aim to respond to appeals within 15 business days.
+
+7.4 Final Decision. Our decision on appeal is final. We are not obligated to reverse enforcement actions.
+
+7.5 No Appeals for CSAM. There are no appeals for enforcement actions related to CSAM. Such accounts are permanently and irrevocably terminated.
+
+--------------------------------------------------------------------------------
+8. CHANGES TO THIS POLICY
+--------------------------------------------------------------------------------
+
+We may update this Content Policy as the platform evolves and as new types of content or threats emerge. We will notify users of material changes by posting notice within the app and/or via email. Your continued use of the Service after any update constitutes acceptance of the revised policy.
+
+--------------------------------------------------------------------------------
+9. CONTACT
+--------------------------------------------------------------------------------
+
+For questions about this Content Policy:
+
+Whim
+Email: support@joinwhim.net
+Website: joinwhim.net
+
+For enforcement appeals: appeals@joinwhim.net
+For urgent safety concerns: safety@joinwhim.net
+
+--------------------------------------------------------------------------------
+END OF CONTENT POLICY
+--------------------------------------------------------------------------------

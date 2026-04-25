@@ -25,10 +25,11 @@ const footerLinks = {
   legal: {
     title: "Legal",
     links: [
-      { label: "Privacy Policy", href: "#" },
-      { label: "Terms of Service", href: "#" },
-      { label: "Cookie Policy", href: "#" },
-      { label: "DMCA", href: "#" },
+      { label: "Community Guidelines", href: "/legal/guidelines" },
+      { label: "Terms of Service", href: "/legal/terms" },
+      { label: "Privacy Policy", href: "/legal/privacy" },
+      { label: "Safety Information", href: "/legal/safety" },
+      { label: "Content Policy", href: "/legal/content" },
     ],
   },
 }

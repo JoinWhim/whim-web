@@ -1,0 +1,380 @@
+WHIM PRIVACY POLICY
+
+Last Updated: April 24, 2026
+Effective Date: April 24, 2026
+
+This Privacy Policy describes how Whim ("Whim," "we," "us," or "our") collects, uses, stores, shares, and protects your personal information when you use the Whim mobile application and website (collectively, the "Service") available at joinwhim.net. This policy is designed to comply with applicable privacy laws, including the California Consumer Privacy Act (CCPA) and the General Data Protection Regulation (GDPR).
+
+By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use the Service.
+
+--------------------------------------------------------------------------------
+1. ABOUT US AND DATA CONTROLLER
+--------------------------------------------------------------------------------
+
+Whim is the controller of your personal data. We operate a social event discovery platform that enables users to find, create, attend, and check in to spontaneous local events. Access to certain features of the Service may require institutional email verification.
+
+For privacy-related inquiries, please contact us at:
+Email: privacy@joinwhim.net
+Website: joinwhim.net
+
+--------------------------------------------------------------------------------
+2. WHO CAN USE WHIM
+--------------------------------------------------------------------------------
+
+Whim is intended for individuals aged 18 and older. Whim may require institutional email verification (such as a .edu address) for registration or certain features; these requirements may change at Whim's discretion.
+
+We do not knowingly collect personal information from individuals under the age of 18. If we discover that we have inadvertently collected information from someone under 18, we will promptly delete that information. If you believe a minor has provided us with personal information, please contact us at privacy@joinwhim.net.
+
+--------------------------------------------------------------------------------
+3. INFORMATION WE COLLECT
+--------------------------------------------------------------------------------
+
+We collect information you provide directly to us, information we collect automatically through your use of the Service, and information from third-party sources.
+
+3.1 Information You Provide Directly
+
+Account and Identity Information:
+- First name and last name
+- Institutional or other email address used for registration
+- Password (stored in cryptographic hash form — we never store plaintext passwords)
+- Email verification responses (one-time passcode confirmation)
+
+Profile Information:
+- Username (optional, up to 30 characters)
+- Profile photograph / avatar image (optional)
+- Banner or header image (optional)
+- Biography (optional, up to 300 characters)
+- College or university name (auto-populated from your email domain at registration)
+- Academic major or field of study (optional)
+- Graduation year (optional)
+- Club or organization affiliations (optional, list of strings)
+
+Event Content:
+- Event title, description, and any other text you include in event listings
+- Event location (text address you enter)
+- Event date and time
+- Event cover image (optional)
+- Organization name associated with an event (optional)
+- Event tags selected from predefined categories
+- Maximum participant limits (optional)
+
+Chat Messages:
+- Text content of messages you send in event group chats
+- Timestamps and message metadata
+
+Social and Safety Data:
+- Friend requests sent and received
+- Accepted friendship connections
+- Users you have blocked
+- Reports you submit about other users (including reason and description)
+- Bug reports or feedback you submit
+
+3.2 Information We Collect Automatically
+
+Location Information:
+We collect precise geolocation data (GPS coordinates) in the following specific circumstances:
+   (a) Event Creation: When you create an event and choose to use your current location, we collect your precise GPS coordinates to populate the event's location and coordinates.
+   (b) Attendance Check-In: When you use the in-app check-in feature, we collect your precise GPS coordinates at the moment of check-in to verify that you are physically within approximately 150 meters of the event location. This location data is transmitted to our servers, processed to determine verification status, and a boolean result (verified/not verified) is stored. Your precise check-in coordinates are processed by our secure edge function and are used solely for the purpose of attendance verification.
+   (c) Background Location: On iOS and Android devices, we may request "background location" permission to enable check-in reminder notifications and to allow you to trigger check-in verification without opening the app. We do not continuously track or record your location in the background beyond what is necessary for these specific functions.
+
+   Important: Your precise real-time GPS coordinates are NOT shared with other Whim users. Other users may see that you have attended or checked in to an event, but they cannot see your GPS coordinates.
+
+Device and Usage Information:
+- Device operating system and version
+- App version
+- Push notification token (Expo push token, a device-specific identifier used solely for delivering push notifications)
+- Session and authentication tokens (stored securely on-device using Expo SecureStore)
+- App interaction data, such as events viewed, swiped, or joined
+
+Log Data:
+- Internet Protocol (IP) address
+- Browser type and version (for website access)
+- Pages viewed and time spent
+- Access timestamps
+- Error logs and crash reports
+
+3.3 Information from Third Parties
+
+We may receive information from third-party services that we use to operate the Service:
+- Supabase (our database and authentication provider) may provide account metadata
+- Expo (our push notification provider) processes push tokens on our behalf
+
+We do not purchase data about you from data brokers or other third-party sources.
+
+--------------------------------------------------------------------------------
+4. HOW WE USE YOUR INFORMATION
+--------------------------------------------------------------------------------
+
+We use the information we collect for the following purposes:
+
+Account Management and Authentication:
+- To create and manage your account
+- To verify your email address and eligibility for the Service
+- To authenticate you when you sign in
+- To reset your password or provide account recovery
+- To enforce our one-account-per-person policy
+
+Providing the Service:
+- To display events to you based on your location and preferences
+- To show you other users' public profiles when relevant (e.g., as event hosts or attendees)
+- To enable you to create, edit, and manage events
+- To facilitate attendance verification at events
+- To display and deliver event group chat messages
+- To manage friend requests and connections
+- To enable you to block other users
+
+Communications:
+- To send push notifications about events you have joined, friend requests, check-in reminders, and other relevant platform activity
+- To send transactional emails such as verification codes, account security alerts, and policy update notices
+
+Safety and Moderation:
+- To investigate reports of violations of our Terms, Community Guidelines, or Content Policy
+- To enforce our policies and take action against accounts that violate them
+- To prevent fraud, abuse, and unauthorized access
+- To maintain the security and integrity of the Service
+
+Analytics and Improvement:
+- To understand how users interact with the Service and identify areas for improvement
+- To generate aggregated, anonymized statistics about platform usage
+- To diagnose technical issues and monitor platform performance
+
+Legal Compliance:
+- To comply with applicable legal obligations
+- To respond to lawful requests from law enforcement or government authorities
+- To enforce our Terms and protect our legal rights
+
+--------------------------------------------------------------------------------
+5. HOW WE SHARE YOUR INFORMATION
+--------------------------------------------------------------------------------
+
+We do not sell your personal information. We share your information only in the following circumstances:
+
+5.1 With Other Users (In-App Visibility)
+
+Certain profile and activity information is visible to other authenticated Whim users as part of normal platform operation:
+- Your name, profile picture, username, college, major, graduation year, and club affiliations are visible to other authenticated users
+- Your event hosting history is visible to users who view your profile
+- Your verified attendance at events is visible to other attendees of those events
+- Your RSVP or attendance at an event is visible to other attendees of that event
+- Messages you send in event chats are visible to all attendees of that event
+
+We do not share your precise GPS coordinates, email address, or password with other users.
+
+5.2 With Third-Party Service Providers
+
+We share data with the following third-party service providers who process data on our behalf:
+
+Supabase (Supabase Inc.):
+- Role: Database infrastructure provider, authentication provider, and cloud storage provider
+- Data shared: All database contents, including your profile, events, messages, attendance records, and relationships
+- Purpose: To host and operate the Service's backend infrastructure
+- Location: Supabase infrastructure is hosted on AWS; data may be processed in the United States and other countries
+- Reference: supabase.com/privacy
+
+Expo (Expo Technology Inc.):
+- Role: Push notification delivery service
+- Data shared: Your device's push notification token (a device identifier, not directly linked to your name or email on Expo's end)
+- Purpose: To deliver push notifications to your device
+- Reference: expo.dev/privacy
+
+We do not share your personal data with any advertising networks, data brokers, or other third parties for commercial purposes.
+
+5.3 For Legal Reasons
+
+We may disclose your information if we believe in good faith that such disclosure is necessary to:
+- Comply with a legal obligation, subpoena, court order, or other governmental request
+- Enforce or investigate potential violations of our Terms
+- Protect the safety, rights, or property of Whim, our users, or the public
+- Prevent or address fraud, security, or technical issues
+
+5.4 Business Transfers
+
+If Whim is involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of all or a portion of its assets, your information may be transferred as part of that transaction. We will provide notice before your personal information is subject to a different privacy policy.
+
+5.5 With Your Consent
+
+We may share your information for other purposes with your explicit consent.
+
+--------------------------------------------------------------------------------
+6. LOCATION DATA — DETAILED DISCLOSURE
+--------------------------------------------------------------------------------
+
+Location data is among the most sensitive data we collect. This section provides a detailed explanation of our location data practices.
+
+6.1 What Location Data We Collect
+
+We collect precise GPS coordinates (latitude and longitude) in two specific contexts:
+   (a) Event Coordinates: When you create an event using your current location, your coordinates at that moment are stored as the event's coordinates. These are visible to authenticated users in proximity to the event.
+   (b) Check-In Verification: When you check in to an event, your device transmits your current GPS coordinates to our servers. Our system computes whether you are within 150 meters of the event. Only the verification result (true/false) is permanently stored; your raw check-in coordinates are processed and not permanently stored in our database.
+
+6.2 What Location Data We Do NOT Collect
+
+- We do not continuously track your location
+- We do not build a history of your physical movements
+- We do not share your real-time location with other users
+- We do not use your location for advertising purposes
+
+6.3 Background Location Permission
+
+On iOS and Android, we may request permission to access your location while the app is in the background ("always on" location permission). We use this permission only to:
+   (a) Send you timely check-in reminder notifications when you are near an event you joined
+   (b) Allow you to trigger check-in verification without manually opening the app
+
+You can revoke background location permission in your device settings at any time. Revoking this permission may limit your ability to receive timely check-in reminders.
+
+6.4 Legal Basis (GDPR)
+
+For users in the European Economic Area, we process location data on the basis of your consent, which you provide when granting location permissions on your device, and where necessary for the performance of the contract between you and Whim (i.e., providing the Service's check-in and event creation features).
+
+--------------------------------------------------------------------------------
+7. DATA RETENTION
+--------------------------------------------------------------------------------
+
+We retain your personal information for different periods depending on the type of data and its purpose:
+
+Event Listings and Messages:
+Events and their associated group chat messages are automatically deleted approximately 24 hours after the event's scheduled end time via our automated cleanup process. This means the content of event chats is not retained after events expire.
+
+Attendance Records (Check-Ins):
+Records of verified event attendance (event_checkins) are retained indefinitely as part of your profile's attendance history. This data is used to calculate and display your "show rate" statistic.
+
+Profile Data:
+Your profile information (name, university, major, graduation year, clubs, photos) is retained until you delete your account.
+
+Friend Connections and Social Data:
+Friend relationships and block records are retained until you remove them or delete your account.
+
+Push Notification Tokens:
+Your device's push notification token is retained until your account is deleted or you update the token.
+
+Authentication Data:
+Email address and authentication credentials are retained until account deletion, subject to any mandatory legal retention requirements.
+
+Bug and User Reports:
+Reports you submit about bugs or other users are retained by our administrative team for safety and compliance purposes, even after account deletion, to ensure the integrity of our moderation process.
+
+Account Deletion:
+When you delete your account, we initiate a permanent deletion of your profile and associated personal data, including your profile information, events you created, messages you sent, friendships, blocks, attendance records, and push tokens. Certain anonymized or aggregated data derived from your activity may be retained for statistical purposes. Some data may be retained for a limited period as required by law or to resolve disputes.
+
+--------------------------------------------------------------------------------
+8. YOUR RIGHTS AND CHOICES
+--------------------------------------------------------------------------------
+
+Depending on your location, you may have the following rights with respect to your personal information:
+
+8.1 Right to Access
+You have the right to request information about what personal data we hold about you. You may access much of your data directly through the Service. To request a complete copy of your data, use the "Request My Data" feature in the app's settings, or contact privacy@joinwhim.net.
+
+8.2 Right to Correction
+You have the right to correct inaccurate or incomplete personal data. You may update most of your profile information directly within the app. For assistance with information you cannot update yourself, contact privacy@joinwhim.net.
+
+8.3 Right to Deletion
+You have the right to request deletion of your personal data. You may delete your account at any time through the account settings. Upon deletion, we permanently remove your profile and associated data as described in Section 7. For specific deletion requests, contact privacy@joinwhim.net.
+
+8.4 Right to Data Portability
+You have the right to receive a machine-readable copy of your personal data. Use the "Request My Data" feature in the app settings, or contact privacy@joinwhim.net to request a data export.
+
+8.5 Right to Opt Out of Notifications
+You may opt out of push notifications at any time through your device's notification settings. You may also manage notification preferences within the app. Note that opting out of notifications may result in missing event reminders and other time-sensitive alerts.
+
+8.6 Right to Restrict Processing (GDPR)
+If you are located in the European Economic Area, you may have the right to request that we restrict the processing of your personal data in certain circumstances.
+
+8.7 Right to Object (GDPR)
+If you are located in the European Economic Area, you may have the right to object to our processing of your personal data where we rely on legitimate interests as the legal basis.
+
+8.8 Exercising Your Rights
+To exercise your privacy rights, please contact us at privacy@joinwhim.net. We will respond to your request within 30 days (or as required by applicable law). We may need to verify your identity before processing your request.
+
+8.9 Do Not Track
+The Service does not currently respond to "Do Not Track" signals from web browsers.
+
+--------------------------------------------------------------------------------
+9. CALIFORNIA PRIVACY RIGHTS (CCPA)
+--------------------------------------------------------------------------------
+
+If you are a California resident, you have specific rights under the California Consumer Privacy Act (CCPA):
+
+Right to Know: You have the right to request disclosure of the categories and specific pieces of personal information we have collected about you, the sources from which it was collected, the business purposes for collection, and the categories of third parties with whom it was shared.
+
+Right to Delete: You have the right to request deletion of personal information we have collected from you, subject to certain exceptions.
+
+Right to Non-Discrimination: We will not discriminate against you for exercising your CCPA rights.
+
+Right to Opt Out of Sale: We do not sell personal information as defined under CCPA.
+
+Categories of Personal Information Collected (CCPA Categories):
+- Identifiers: name, email address, user ID
+- Personal information categories (Cal. Civ. Code 1798.80(e)): name, account credentials
+- Characteristics of protected classifications: university/college affiliation
+- Geolocation data: precise GPS coordinates during check-in and event creation
+- Internet or other electronic network activity: app interaction data
+- Professional or employment-related information: major, graduation year
+- Inferences drawn from the above: attendance statistics, event preferences
+
+To exercise your California privacy rights, contact us at privacy@joinwhim.net or through the "Request My Data" feature in the app.
+
+--------------------------------------------------------------------------------
+10. DATA SECURITY
+--------------------------------------------------------------------------------
+
+We implement technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction. These measures include:
+
+- Row-Level Security (RLS) policies on all database tables, ensuring users can only access data they are authorized to see
+- Encrypted authentication using Supabase's secure authentication infrastructure
+- HTTPS/TLS encryption for all data transmitted between your device and our servers
+- Secure, hashed password storage (plaintext passwords are never stored)
+- Access controls limiting data access to authorized personnel
+- Automated event cleanup removing sensitive chat data after events expire
+- Secure local token storage on devices using Expo SecureStore
+
+While we strive to protect your information, no method of transmission over the internet or method of electronic storage is 100% secure. We cannot guarantee absolute security of your data.
+
+If you discover a security vulnerability, please report it to security@joinwhim.net.
+
+--------------------------------------------------------------------------------
+11. INTERNATIONAL DATA TRANSFERS
+--------------------------------------------------------------------------------
+
+Whim is operated from the United States. If you access the Service from outside the United States, please be aware that your information will be transferred to and processed in the United States and potentially other countries where our service providers operate. By using the Service, you consent to this transfer.
+
+For users in the European Economic Area, we ensure that any such transfers comply with applicable data protection laws, including through standard contractual clauses or other appropriate safeguards as required.
+
+--------------------------------------------------------------------------------
+12. COOKIES AND LOCAL STORAGE
+--------------------------------------------------------------------------------
+
+The Whim mobile application uses Expo SecureStore to securely store your authentication session token on your device. This is necessary to keep you signed in between app sessions. Expo SecureStore uses the device's native secure storage mechanisms (iOS Keychain and Android Keystore).
+
+If you access the Service through a web browser at joinwhim.net, we may use cookies or similar technologies as described in a separate cookie notice.
+
+--------------------------------------------------------------------------------
+13. LINKS TO OTHER SERVICES
+--------------------------------------------------------------------------------
+
+The Service may contain links to third-party websites or services. This Privacy Policy does not apply to those third-party services. We encourage you to review the privacy policies of any third-party services you access.
+
+--------------------------------------------------------------------------------
+14. CHANGES TO THIS PRIVACY POLICY
+--------------------------------------------------------------------------------
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or applicable law. We will notify you of material changes by posting the updated policy within the Service and/or by sending an email notification to your registered address. The "Last Updated" date at the top of this document indicates the date of the most recent revision. Your continued use of the Service after the effective date of any changes constitutes your acceptance of the updated Privacy Policy.
+
+--------------------------------------------------------------------------------
+15. CONTACT US
+--------------------------------------------------------------------------------
+
+If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+
+Whim — Privacy Team
+Email: privacy@joinwhim.net
+Website: joinwhim.net
+
+For security vulnerabilities: security@joinwhim.net
+For general support: support@joinwhim.net
+
+We will respond to privacy-related requests within 30 days of receipt.
+
+--------------------------------------------------------------------------------
+END OF PRIVACY POLICY
+--------------------------------------------------------------------------------

@@ -1,0 +1,270 @@
+WHIM TERMS OF SERVICE
+
+Last Updated: April 24, 2026
+Effective Date: April 24, 2026
+
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING WHIM. BY CREATING AN ACCOUNT, ACCESSING, OR USING THE WHIM APPLICATION OR WEBSITE (COLLECTIVELY, THE "SERVICE"), YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.
+
+These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Whim ("Whim," "we," "us," or "our"), the operator of the Whim mobile application available at joinwhim.net (the "Service"). Whim is a platform that enables university students to discover, create, and attend spontaneous local events.
+
+--------------------------------------------------------------------------------
+1. ELIGIBILITY
+--------------------------------------------------------------------------------
+
+1.1 Age Requirement. You must be at least 18 years of age to use the Service. By using the Service, you represent and warrant that you are 18 years of age or older. If you are under 18, you may not create an account or use the Service.
+
+1.2 Institutional Email Verification. Whim may require institutional email verification for certain features or access to the Service. Currently, registration requires a valid institutional email address (such as a .edu address) recognized by Whim. By providing an institutional email address, you represent and warrant that:
+   (a) You are authorized to use the email address you provided;
+   (b) Any affiliation you represent is accurate and truthful.
+   Whim reserves the right to modify, expand, or remove email verification requirements at any time at its sole discretion.
+
+1.3 Onboarding Requirements. Whim may require invitations, referrals, or other onboarding steps as a condition of accessing the full Service. These requirements may change or be removed at any time at Whim's discretion.
+
+1.4 Geographic Restrictions. The Service is currently intended for users located in the United States. We make no representation that the Service is appropriate or available for use in other locations.
+
+1.5 Legal Capacity. You represent and warrant that you have the full legal capacity to enter into these Terms and that you are not barred from using the Service under applicable law.
+
+--------------------------------------------------------------------------------
+2. ACCOUNT REGISTRATION AND SECURITY
+--------------------------------------------------------------------------------
+
+2.1 Account Creation. To access most features of the Service, you must create an account. You agree to provide accurate, current, and complete information during registration, including your name and a valid email address meeting any applicable verification requirements. You are expected to represent your identity honestly. You further agree to maintain and promptly update this information as necessary to keep it accurate, current, and complete.
+
+2.2 Email Verification. Upon registration, you will be required to verify your email address via a one-time password (OTP) sent to your provided institutional email. Your account will not be activated until email verification is complete.
+
+2.3 Account Credentials. You are responsible for maintaining the confidentiality of your account credentials, including your password. You agree not to share your credentials with any third party. You are fully responsible for all activities that occur under your account, whether or not authorized by you. You agree to notify Whim immediately at support@joinwhim.net of any unauthorized access to or use of your account.
+
+2.4 One Account Per Person. You may only create and maintain one account. Creating multiple accounts to circumvent enforcement actions, bans, or platform restrictions is strictly prohibited and may result in permanent removal from the Service.
+
+2.5 Account Security. Whim is not liable for any loss or damage arising from your failure to maintain the security of your account credentials. You are solely responsible for any activity conducted through your account.
+
+2.6 Username. If you choose a username, it must not impersonate another person, constitute a trademark infringement, or be obscene, offensive, or otherwise in violation of these Terms.
+
+--------------------------------------------------------------------------------
+3. THE SERVICE
+--------------------------------------------------------------------------------
+
+3.1 Description. Whim is a social platform that allows users to discover events created by other university students, create and post events, join events, participate in event-based group chats, verify attendance at events using GPS technology, and build connections with other university students.
+
+3.2 Event Discovery. The Service provides a swipe-based interface to discover and join events posted by other users within configurable distance parameters. Events are displayed based on proximity to your device's location, relevance, and time.
+
+3.3 Event Creation. You may create events through the Service. Events are limited to activities that will occur within the following 24-hour period from the time of posting. By creating an event, you represent that:
+   (a) The event is real and will actually take place;
+   (b) The event location, time, and description are accurate;
+   (c) You have the authority to host the described event at the listed location;
+   (d) The event complies with all applicable laws, campus rules, and these Terms.
+
+3.4 Event Attendance and Check-In. When you join an event, you become a member of that event's attendee list and associated group chat. The Service includes a GPS-based attendance verification feature that allows you to confirm your physical presence at an event within approximately 150 meters of the event's listed coordinates. By using the check-in feature, you consent to the collection and processing of your precise GPS location at the time of check-in solely for the purpose of verifying attendance.
+
+3.5 Event Chat. Joining an event grants you access to a group chat for that event. Messages sent in event chats are visible to all attendees of that event. Messages are retained until the event is automatically archived (generally within 24 hours after the event time). Once posted, messages cannot be edited or deleted by users. You are solely responsible for the content of messages you send.
+
+3.6 Social Features. The Service includes features to send and receive friend requests, view other users' public profiles, and see mutual connections. These features are intended to facilitate real-world social interactions in connection with events.
+
+3.7 Notifications. By using the Service, you consent to receive push notifications related to events you have joined, friend requests, and other platform activity. You may manage notification preferences through your device's notification settings.
+
+3.8 Service Availability. We do not guarantee that the Service will be available at all times, without interruption, or free from errors. We reserve the right to modify, suspend, or discontinue the Service or any feature thereof at any time, with or without notice, and without liability to you.
+
+--------------------------------------------------------------------------------
+4. USER CONDUCT AND ACCEPTABLE USE
+--------------------------------------------------------------------------------
+
+4.1 General Obligations. You agree to use the Service only for lawful purposes and in a manner consistent with these Terms, our Community Guidelines, Content Policy, and all applicable local, state, federal, and international laws and regulations.
+
+4.2 Prohibited Conduct. You agree that you will NOT:
+   (a) Post false, misleading, deceptive, or fraudulent events, locations, or information;
+   (b) Impersonate any person or entity, including other Whim users, university officials, law enforcement, or Whim employees;
+   (c) Create events for illegal activities, including but not limited to events involving unlawful distribution of controlled substances, illegal gambling, or other criminal conduct;
+   (d) Harass, bully, intimidate, stalk, threaten, or otherwise harm any other user or person;
+   (e) Post or transmit content that is defamatory, obscene, pornographic, hateful, racially or ethnically offensive, or otherwise objectionable;
+   (f) Engage in any form of discrimination based on race, ethnicity, national origin, religion, gender, gender identity, sexual orientation, age, disability, or any other protected characteristic;
+   (g) Collect or harvest personal information of other users without their explicit consent;
+   (h) Use the Service to transmit unsolicited commercial communications (spam);
+   (i) Attempt to gain unauthorized access to other users' accounts, Whim's systems, or any related networks;
+   (j) Reverse engineer, disassemble, decompile, or otherwise attempt to derive source code from the Service;
+   (k) Use automated tools, bots, scrapers, or other non-human means to access or interact with the Service;
+   (l) Create multiple accounts or use the Service after being banned or suspended;
+   (m) Interfere with or disrupt the integrity or performance of the Service;
+   (n) Use the Service in any way that could damage, disable, overburden, or impair our servers or networks;
+   (o) Facilitate, assist, or encourage any third party to do any of the foregoing.
+
+4.3 Real-World Safety. You acknowledge that Whim is a platform for discovering and attending real-world events and that meeting strangers in person carries inherent risks. You agree to exercise reasonable caution when attending events organized through the Service. Whim is not responsible for any harm, injury, loss, or damage that occurs as a result of your participation in any event or your interaction with other users, online or in person.
+
+4.6 User Responsibility for Events. Users are solely responsible for ensuring that any event they create or participate in complies with all applicable laws, university policies, and venue rules. Whim does not review events for legal compliance and is not liable for any violation of law, policy, or venue rules arising from an event created or attended through the Service.
+
+4.5 No Background Checks or Identity Verification. WHIM DOES NOT CONDUCT CRIMINAL BACKGROUND CHECKS ON USERS AND DOES NOT INDEPENDENTLY VERIFY USER IDENTITIES BEYOND EMAIL VERIFICATION. The presence of a user on the platform does not constitute any endorsement, vetting, or certification of that user's character, background, or intentions. You are solely responsible for exercising caution when interacting with other users, both online and in person.
+
+4.4 Alcohol and Controlled Substances. You agree not to create or promote events that involve the unlawful use, distribution, or sale of alcohol or controlled substances. Events involving alcohol must comply with all applicable laws, including minimum age requirements. You agree not to pressure, coerce, or encourage other users to consume alcohol or substances.
+
+--------------------------------------------------------------------------------
+5. USER-GENERATED CONTENT
+--------------------------------------------------------------------------------
+
+5.1 Your Content. The Service allows you to submit, post, and share content, including but not limited to event listings, descriptions, images, profile information, and chat messages ("User Content"). You retain all ownership rights in any User Content you submit.
+
+5.2 License to Whim. By submitting User Content to the Service, you grant Whim a non-exclusive, royalty-free, worldwide, sublicensable, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform your User Content solely in connection with operating and providing the Service. This license terminates when your User Content is deleted from the Service or when your account is permanently deleted.
+
+5.3 Representations and Warranties. You represent and warrant that:
+   (a) You own or otherwise have the right to grant the license described in Section 5.2;
+   (b) Your User Content does not infringe upon any third party's intellectual property rights, privacy rights, or any other rights;
+   (c) Your User Content complies with these Terms, our Content Policy, and all applicable laws.
+
+5.4 Whim's Right to Review. Whim reserves the right, but has no obligation, to review, monitor, or remove User Content at our sole discretion, at any time, and for any reason, including if we believe the content violates these Terms or applicable law.
+
+5.7 No Duty to Monitor. Whim has no obligation to monitor user activity, events, or content and does not guarantee that any content will be reviewed before it is made available on the Service. You acknowledge that Whim acts as a passive platform and is not liable for any content that is posted by users, regardless of whether such content violates these Terms.
+
+5.5 No Endorsement. Whim does not endorse, support, represent, or guarantee the completeness, truthfulness, accuracy, or reliability of any User Content, nor does it endorse any opinions expressed in User Content. You understand that by using the Service, you may be exposed to content that might be offensive, harmful, inaccurate, or otherwise inappropriate.
+
+5.6 Feedback. If you provide Whim with any feedback, suggestions, or ideas regarding the Service, you grant Whim an unrestricted, perpetual, irrevocable, royalty-free license to use that feedback in any way, without any obligation to you.
+
+--------------------------------------------------------------------------------
+6. INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------------
+
+6.1 Whim's Intellectual Property. The Service and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, and the design, selection, and arrangement thereof) are owned by Whim and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property laws.
+
+6.2 Limited License. Subject to your compliance with these Terms, Whim grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Service for your personal, non-commercial use.
+
+6.3 Restrictions. You may not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on the Service except as permitted by these Terms or with Whim's prior written consent.
+
+6.4 Trademarks. "Whim," the Whim logo, and related marks are trademarks of Whim. You may not use these marks without Whim's prior written permission.
+
+--------------------------------------------------------------------------------
+7. PRIVACY AND DATA
+--------------------------------------------------------------------------------
+
+7.1 Privacy Policy. Your use of the Service is also governed by our Privacy Policy, which is incorporated into these Terms by reference. By using the Service, you consent to the collection, use, and disclosure of your information as described in our Privacy Policy.
+
+7.2 Location Data. You acknowledge that use of certain Service features, including event creation and attendance verification, requires your device to share precise GPS location data with Whim. You may be asked to grant background location permissions on your device to enable check-in reminder notifications. You may withdraw location permissions through your device's settings, but doing so may limit your ability to use certain features of the Service.
+
+7.3 Communications. By creating an account, you consent to receive email communications from Whim related to your account, including verification emails, security alerts, and important notices regarding these Terms or the Service. You may also receive push notifications as described in Section 3.7.
+
+--------------------------------------------------------------------------------
+8. THIRD-PARTY SERVICES
+--------------------------------------------------------------------------------
+
+8.1 Third-Party Integrations. The Service integrates with third-party services, including Supabase (database and authentication infrastructure) and Expo (push notification delivery). Your use of the Service is subject to the terms and privacy policies of these third-party providers.
+
+8.2 Third-Party Links. The Service may contain links to third-party websites or services. Whim has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services. We encourage you to review the terms and privacy policies of any third-party services you access.
+
+8.3 No Endorsement. The inclusion of any link to a third-party website or service does not imply Whim's endorsement of that site or service.
+
+--------------------------------------------------------------------------------
+9. ACCOUNT TERMINATION AND SUSPENSION
+--------------------------------------------------------------------------------
+
+9.1 Termination by You. You may terminate your account at any time by using the account deletion feature within the Service's settings. Upon account deletion, Whim will permanently delete your profile and all associated personal data as described in our Privacy Policy, subject to applicable retention requirements. Deletion is irreversible.
+
+9.2 Termination by Whim. Whim reserves the right to suspend or permanently terminate your account and access to the Service, with or without notice, for any reason, including but not limited to:
+   (a) Violation of these Terms, the Community Guidelines, or the Content Policy;
+   (b) Conduct that Whim, in its sole discretion, believes is harmful to other users, the platform, or third parties;
+   (c) Fraudulent, deceptive, or illegal activity;
+   (d) Extended periods of account inactivity;
+   (e) At Whim's sole discretion for any other reason.
+
+9.3 Effect of Termination. Upon termination of your account, your license to use the Service will immediately cease. Provisions of these Terms that by their nature should survive termination shall survive, including but not limited to Sections 5.2, 6, 10, 11, 12, 13, and 14.
+
+9.4 Appeals. If you believe your account was terminated in error, you may contact us at appeals@joinwhim.net within thirty (30) days of termination. Whim will review your appeal but is under no obligation to reinstate your account.
+
+--------------------------------------------------------------------------------
+10. DISCLAIMERS OF WARRANTIES
+--------------------------------------------------------------------------------
+
+10.1 AS-IS BASIS. THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. WHIM EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+10.2 NO WARRANTY OF ACCURACY. WHIM DOES NOT WARRANT THAT THE SERVICE WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED; THAT DEFECTS WILL BE CORRECTED; THAT THE SERVICE OR THE SERVERS THAT MAKE IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR THAT THE SERVICE WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
+
+10.3 NO RESPONSIBILITY FOR EVENTS. WHIM IS A TECHNOLOGY PLATFORM THAT ENABLES USERS TO DISCOVER AND ORGANIZE EVENTS. WHIM IS NOT AN EVENT ORGANIZER AND DOES NOT CONTROL THE EVENTS LISTED ON THE SERVICE. WHIM MAKES NO REPRESENTATION THAT ANY EVENT LISTED ON THE SERVICE WILL OCCUR AS DESCRIBED, THAT EVENTS ARE SAFE, OR THAT ATTENDING ANY EVENT WILL NOT RESULT IN HARM. YOUR ATTENDANCE AT ANY EVENT IS AT YOUR OWN RISK.
+
+10.4 USER CONDUCT AND ASSUMPTION OF RISK. WHIM IS NOT RESPONSIBLE FOR THE CONDUCT OF ANY USER, ONLINE OR IN PERSON, OR FOR ANY INTERACTIONS BETWEEN USERS. YOU VOLUNTARILY ASSUME ALL RISKS ASSOCIATED WITH ATTENDING EVENTS, INTERACTING WITH OTHER USERS ONLINE OR IN PERSON, AND ANY OTHER USE OF THE SERVICE. THIS INCLUDES RISKS ARISING FROM THE ACTIONS OR OMISSIONS OF OTHER USERS, THE CONDITION OR SAFETY OF EVENT LOCATIONS, AND ANY PHYSICAL, EMOTIONAL, OR FINANCIAL HARM THAT MAY RESULT FROM IN-PERSON INTERACTIONS FACILITATED BY THE SERVICE.
+
+--------------------------------------------------------------------------------
+11. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+11.1 EXCLUSION OF DAMAGES. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WHIM, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THE SERVICE, EVEN IF WHIM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11.2 CAP ON LIABILITY. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WHIM'S TOTAL CUMULATIVE LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICE, WHETHER IN CONTRACT, TORT, OR OTHERWISE, SHALL NOT EXCEED THE GREATER OF (A) ONE HUNDRED DOLLARS ($100) OR (B) THE TOTAL AMOUNTS PAID BY YOU TO WHIM IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+11.3 BASIS OF BARGAIN. THE DISCLAIMERS AND LIMITATIONS OF LIABILITY IN THESE TERMS REFLECT A REASONABLE ALLOCATION OF RISK AND ARE AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN YOU AND WHIM. WHIM WOULD NOT PROVIDE THE SERVICE WITHOUT THESE LIMITATIONS.
+
+11.4 JURISDICTIONAL LIMITATIONS. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN WARRANTIES OR LIABILITY, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU IN FULL.
+
+--------------------------------------------------------------------------------
+12. INDEMNIFICATION
+--------------------------------------------------------------------------------
+
+You agree to defend, indemnify, and hold harmless Whim and its officers, directors, employees, agents, licensors, and service providers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
+   (a) Your violation of these Terms;
+   (b) Your User Content;
+   (c) Your use of the Service;
+   (d) Your attendance at or organization of any event;
+   (e) Your interaction with any other user, online or in person;
+   (f) Your violation of any applicable law or regulation;
+   (g) Your violation of any third party's rights.
+
+--------------------------------------------------------------------------------
+13. DISPUTE RESOLUTION
+--------------------------------------------------------------------------------
+
+13.1 Informal Resolution. Before initiating any formal dispute proceeding, you agree to first contact Whim at legal@joinwhim.net and attempt to resolve the dispute informally. Whim will attempt to respond and resolve the dispute within thirty (30) days of receiving your notice.
+
+13.2 Binding Arbitration. If the dispute is not resolved informally, any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be resolved by binding arbitration administered by the American Arbitration Association ("AAA") under its Consumer Arbitration Rules, as modified by these Terms. The arbitration shall take place in New York, and the Federal Arbitration Act shall govern the interpretation and enforcement of this section. The arbitrator's decision shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
+
+13.3 Class Action Waiver. TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AND WHIM AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED, OR REPRESENTATIVE PROCEEDING. If this specific provision is found to be unenforceable, then the entirety of the arbitration provision shall be null and void.
+
+13.4 Exceptions. Notwithstanding Section 13.2, either party may seek emergency injunctive or other equitable relief from a court of competent jurisdiction to prevent irreparable harm pending resolution of a dispute. Claims of intellectual property infringement may also be brought in court.
+
+13.5 Time Limitation. Any claim arising out of or relating to these Terms or the Service must be filed within one (1) year of when it accrues. Claims not filed within this period are permanently barred.
+
+--------------------------------------------------------------------------------
+14. GOVERNING LAW
+--------------------------------------------------------------------------------
+
+These Terms and any dispute or claim arising out of or in connection with them or their subject matter shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any choice or conflict of law provision. Subject to Section 13 (Dispute Resolution), any legal suit, action, or proceeding arising out of or related to these Terms or the Service shall be instituted exclusively in the federal courts of the United States or the courts of the State of New York. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+
+--------------------------------------------------------------------------------
+15. CHANGES TO TERMS
+--------------------------------------------------------------------------------
+
+15.1 Right to Modify. Whim reserves the right to modify these Terms at any time. If we make material changes, we will notify you by posting the updated Terms within the Service, sending you an email notification at your registered address, or both.
+
+15.2 Acceptance of Changes. Your continued use of the Service after any modification to these Terms constitutes your acceptance of the modified Terms. If you do not agree to the modified Terms, you must stop using the Service and may delete your account.
+
+15.3 Review. We encourage you to review these Terms periodically to stay informed of any changes. The "Last Updated" date at the top of this document indicates when these Terms were most recently revised.
+
+--------------------------------------------------------------------------------
+16. GENERAL PROVISIONS
+--------------------------------------------------------------------------------
+
+16.1 Entire Agreement. These Terms, together with the Privacy Policy, Community Guidelines, Content Policy, and Safety Information, constitute the entire agreement between you and Whim regarding the Service and supersede all prior or contemporaneous agreements, representations, warranties, and understandings.
+
+16.2 Severability. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall continue in full force and effect.
+
+16.3 Waiver. Whim's failure to enforce any provision of these Terms shall not be deemed a waiver of Whim's right to do so in the future.
+
+16.4 Assignment. You may not assign or transfer any of your rights or obligations under these Terms without Whim's prior written consent. Whim may assign these Terms or any of its rights or obligations hereunder without restriction.
+
+16.5 No Third-Party Beneficiaries. These Terms do not create any third-party beneficiary rights.
+
+16.6 Force Majeure. Whim will not be liable for any failure or delay in performance resulting from causes beyond its reasonable control.
+
+16.7 Notices. Notices to you may be sent to the email address associated with your account. Notices to Whim should be sent to legal@joinwhim.net.
+
+--------------------------------------------------------------------------------
+17. CONTACT INFORMATION
+--------------------------------------------------------------------------------
+
+If you have questions about these Terms of Service, please contact us:
+
+Whim
+Email: legal@joinwhim.net
+Website: joinwhim.net
+
+For account or support issues: support@joinwhim.net
+For privacy inquiries: privacy@joinwhim.net
+For safety concerns: safety@joinwhim.net
+For appeals: appeals@joinwhim.net
+
+--------------------------------------------------------------------------------
+END OF TERMS OF SERVICE
+--------------------------------------------------------------------------------
