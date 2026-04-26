@@ -12,7 +12,7 @@ export function HowItWorks() {
 
   return (
     <section
-      id="bento-grid"
+      id="how-it-works"
       className="relative min-h-dvh py-20 lg:py-24 flex items-center overflow-hidden scroll-mt-28"
     >
       <div
@@ -46,9 +46,13 @@ export function HowItWorks() {
           {/* Box 1: The Swipe - Takes 2/3 width (2 columns) */}
           <motion.div
             initial={prefersReducedMotion ? false : { opacity: 0, y: 28, filter: "blur(14px)" }}
-            whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+            whileInView={{
+              opacity: 1,
+              y: 0,
+              filter: "blur(0px)",
+              transition: revealTransition(),
+            }}
             viewport={{ once: true, amount: 0.3 }}
-            transition={revealTransition()}
             className="lg:col-span-2 rounded-[24px] bg-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.1)] backdrop-blur-xl p-8 lg:p-10 min-h-[400px] flex flex-col justify-between overflow-hidden relative shadow-[0_24px_70px_rgba(5,8,20,0.45)]"
             whileHover={prefersReducedMotion ? undefined : { y: -8, scale: 1.02 }}
             whileTap={{ scale: 0.99 }}
@@ -120,9 +124,13 @@ export function HowItWorks() {
             {/* Box 2: The Join */}
             <motion.div
               initial={prefersReducedMotion ? false : { opacity: 0, y: 26, filter: "blur(12px)" }}
-              whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+              whileInView={{
+                opacity: 1,
+                y: 0,
+                filter: "blur(0px)",
+                transition: revealTransition(0.08),
+              }}
               viewport={{ once: true, amount: 0.4 }}
-              transition={revealTransition(0.08)}
               className="rounded-[24px] bg-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.1)] backdrop-blur-xl p-8 flex-1 min-h-[187px] flex flex-col justify-between overflow-hidden relative shadow-[0_20px_52px_rgba(5,8,20,0.4)]"
               whileHover={prefersReducedMotion ? undefined : { y: -8, scale: 1.02 }}
               whileTap={{ scale: 0.99 }}
@@ -171,9 +179,13 @@ export function HowItWorks() {
             {/* Box 3: The Go */}
             <motion.div
               initial={prefersReducedMotion ? false : { opacity: 0, y: 26, filter: "blur(12px)" }}
-              whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+              whileInView={{
+                opacity: 1,
+                y: 0,
+                filter: "blur(0px)",
+                transition: revealTransition(0.16),
+              }}
               viewport={{ once: true, amount: 0.4 }}
-              transition={revealTransition(0.16)}
               className="rounded-[24px] bg-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.1)] backdrop-blur-xl p-8 flex-1 min-h-[187px] flex flex-col justify-between overflow-hidden relative shadow-[0_20px_52px_rgba(5,8,20,0.4)]"
               whileHover={prefersReducedMotion ? undefined : { y: -8, scale: 1.02 }}
               whileTap={{ scale: 0.99 }}

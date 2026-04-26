@@ -124,14 +124,14 @@ export function Header() {
             <div className="hidden justify-center gap-2 md:flex">
               <button
                 type="button"
-                onClick={() => scrollToSection("bento-grid")}
-                className="rounded-full px-3.5 py-2 text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
+                onClick={() => scrollToSection("how-it-works")}
+                className="inline-flex items-center justify-center rounded-full px-3.5 py-2 text-center text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
               >
                 How it works
               </button>
               <Link
                 href="/contact"
-                className="rounded-full px-3.5 py-2 text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
+                className="inline-flex items-center justify-center rounded-full px-3.5 py-2 text-center text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white"
               >
                 Contact Us
               </Link>
@@ -179,8 +179,8 @@ export function Header() {
             >
               <button
                 type="button"
-                onClick={() => scrollToSection("bento-grid")}
-                className={`cursor-pointer rounded-[12px] px-3 py-2.5 text-left text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white active:scale-[0.99] ${
+                onClick={() => scrollToSection("how-it-works")}
+                className={`inline-flex items-center justify-center cursor-pointer rounded-[12px] px-3 py-2.5 text-center text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white active:scale-[0.99] ${
                   isMobileMenuOpen ? "translate-y-0 opacity-100 delay-75" : "translate-y-1 opacity-0 delay-0"
                 }`}
               >
@@ -189,7 +189,7 @@ export function Header() {
               <Link
                 href="/contact"
                 onClick={() => setIsMobileMenuOpen(false)}
-                className={`cursor-pointer rounded-[12px] px-3 py-2.5 text-left text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white active:scale-[0.99] ${
+                className={`inline-flex items-center justify-center cursor-pointer rounded-[12px] px-3 py-2.5 text-center text-xs font-medium uppercase tracking-[0.12em] text-white/78 transition-all duration-200 hover:bg-white/10 hover:text-white active:scale-[0.99] ${
                   isMobileMenuOpen ? "translate-y-0 opacity-100 delay-[125ms]" : "translate-y-1 opacity-0 delay-0"
                 }`}
               >

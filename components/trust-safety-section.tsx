@@ -64,9 +64,13 @@ export function TrustSafetySection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-8">
           <motion.article
             initial={prefersReducedMotion ? false : { opacity: 0, y: 24, filter: "blur(14px)" }}
-            whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+            whileInView={{
+              opacity: 1,
+              y: 0,
+              filter: "blur(0px)",
+              transition: revealTransition(),
+            }}
             viewport={{ once: true, amount: 0.35 }}
-            transition={revealTransition()}
             className="rounded-[24px] bg-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.1)] backdrop-blur-xl p-8 lg:p-10 overflow-hidden relative shadow-[0_24px_70px_rgba(5,8,20,0.45)]"
             whileHover={prefersReducedMotion ? undefined : { y: -4, scale: 1.02 }}
             whileTap={{ scale: 0.995 }}
@@ -76,13 +80,6 @@ export function TrustSafetySection() {
               style={{
                 background:
                   "radial-gradient(circle at 18% 18%, rgba(124,58,237,0.2) 0%, transparent 52%)",
-              }}
-            />
-            <div
-              className="pointer-events-none absolute inset-0 opacity-[0.05]"
-              style={{
-                backgroundImage:
-                  "repeating-linear-gradient(120deg, rgba(255,255,255,0.28) 0px, rgba(255,255,255,0.28) 1px, transparent 1px, transparent 14px)",
               }}
             />
             <div
@@ -153,9 +150,13 @@ export function TrustSafetySection() {
 
           <motion.article
             initial={prefersReducedMotion ? false : { opacity: 0, y: 24, filter: "blur(14px)" }}
-            whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+            whileInView={{
+              opacity: 1,
+              y: 0,
+              filter: "blur(0px)",
+              transition: revealTransition(0.1),
+            }}
             viewport={{ once: true, amount: 0.35 }}
-            transition={revealTransition(0.1)}
             className="rounded-[24px] bg-[rgba(255,255,255,0.04)] border border-[rgba(255,255,255,0.1)] backdrop-blur-xl p-8 lg:p-10 overflow-hidden relative shadow-[0_24px_70px_rgba(5,8,20,0.45)]"
             whileHover={prefersReducedMotion ? undefined : { y: -4, scale: 1.02 }}
             whileTap={{ scale: 0.995 }}
@@ -165,13 +166,6 @@ export function TrustSafetySection() {
               style={{
                 background:
                   "radial-gradient(circle at 84% 12%, rgba(139,111,240,0.18) 0%, transparent 48%)",
-              }}
-            />
-            <div
-              className="pointer-events-none absolute inset-0 opacity-[0.05]"
-              style={{
-                backgroundImage:
-                  "repeating-linear-gradient(120deg, rgba(255,255,255,0.28) 0px, rgba(255,255,255,0.28) 1px, transparent 1px, transparent 14px)",
               }}
             />
             <div
