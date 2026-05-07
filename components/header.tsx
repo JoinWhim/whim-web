@@ -138,14 +138,15 @@ export function Header() {
             </div>
 
             <div className="hidden justify-end md:flex">
-              <button
-                type="button"
-                onClick={() => scrollToSection("ready")}
+              <a
+                href="https://apps.apple.com/us/app/whim-swipe-join-go/id6763829686"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-2 rounded-[16px] bg-[linear-gradient(130deg,#7C3AED_0%,#8B6FF0_100%)] px-5 py-2.5 text-xs font-semibold uppercase tracking-[0.12em] text-white shadow-[0_10px_28px_rgba(124,58,237,0.38)] transition-[filter,box-shadow,transform,background] duration-150 ease-out hover:bg-[linear-gradient(130deg,#5f2ccb_0%,#7358d8_100%)] hover:shadow-none hover:brightness-95 active:scale-[0.97] active:brightness-90 active:translate-y-[1px] cursor-pointer"
               >
                 <Download className="h-3.5 w-3.5" />
                 Download
-              </button>
+              </a>
             </div>
 
             <div className="flex justify-end md:hidden">
@@ -195,16 +196,17 @@ export function Header() {
               >
                 Contact Us
               </Link>
-              <button
-                type="button"
-                onClick={() => scrollToSection("ready")}
+              <a
+                href="https://apps.apple.com/us/app/whim-swipe-join-go/id6763829686"
+                target="_blank"
+                rel="noopener noreferrer"
                 className={`flex cursor-pointer items-center justify-center gap-2 rounded-[14px] bg-[linear-gradient(130deg,#7C3AED_0%,#8B6FF0_100%)] px-4 py-2.5 text-xs font-semibold uppercase tracking-[0.12em] text-white shadow-[0_10px_28px_rgba(124,58,237,0.38)] transition-[filter,box-shadow,transform,background,opacity] duration-200 ease-out hover:bg-[linear-gradient(130deg,#5f2ccb_0%,#7358d8_100%)] hover:shadow-none hover:brightness-95 active:scale-[0.97] active:brightness-90 active:translate-y-[1px] ${
                   isMobileMenuOpen ? "translate-y-0 opacity-100 delay-150" : "translate-y-1 opacity-0 delay-0"
                 }`}
               >
                 <Download className="h-3.5 w-3.5" />
                 Download
-              </button>
+              </a>
             </div>
           </nav>
         </div>

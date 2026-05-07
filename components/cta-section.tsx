@@ -55,7 +55,9 @@ export function CTASection() {
             <div className="flex flex-col sm:flex-row gap-4">
               {/* App Store Button */}
               <motion.a
-                href="#"
+                href="https://apps.apple.com/us/app/whim-swipe-join-go/id6763829686"
+                target="_blank"
+                rel="noopener noreferrer"
                 whileHover={
                   prefersReducedMotion
                     ? undefined
